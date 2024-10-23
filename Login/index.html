@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kiosko Analytics</title>
+    <link rel="icon" href="img/favicon.ico" type="image/icon type">
+    <link rel="stylesheet" href="index.css">
+
+</head>
+
+<body>
+    <header>
+        <nav>
+            <ul>
+                <div class="left-links">
+                    <li><a href="#">Inicio</a></li>
+                    <li><a href="#">Tableros</a></li>
+                    <li><a href="#">Permisos</a></li>
+                    <li><a href="#">Usuarios</a></li>
+                </div>
+                <div class="right-link">
+                    <li><a class="logout" href="login.html">Cerrar Sesión</a></li>
+                </div>
+            </ul>
+        </nav>
+        <div style="height: 5rem;"></div>
+        <img src="img/logo-kiosko.png" alt="">
+        <img src="img/Analytics-removebg-preview.png" alt="">
+    </header>
+
+
+    <section style="display: flex; width: 100%; align-items: center; justify-content: center;margin-bottom: 5rem;">
+        <div class="dashboards-placement">
+            <div class="categoria-title">
+                <h3>Categoria 1</h3>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-triangle-inverted-filled"
+                    width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#597e8d" fill="none"
+                    stroke-linecap="round" stroke-linejoin="round">
+                    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                    <path
+                        d="M20.118 3h-16.225a2.914 2.914 0 0 0 -2.503 4.371l8.116 13.549a2.917 2.917 0 0 0 4.987 .005l8.11 -13.539a2.914 2.914 0 0 0 -2.486 -4.386z"
+                        stroke-width="0" fill="currentColor" />
+                </svg>
+            </div>
+            <div class="dashboards">
+                <div class="dashboard-card"></div>
+                <div class="dashboard-card"></div>
+                <div class="dashboard-card"></div>
+            </div>
+            <div class="categoria-title">
+                <h3>Categoria 2</h3>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-triangle-inverted-filled"
+                    width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#597e8d" fill="none"
+                    stroke-linecap="round" stroke-linejoin="round">
+                    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                    <path
+                        d="M20.118 3h-16.225a2.914 2.914 0 0 0 -2.503 4.371l8.116 13.549a2.917 2.917 0 0 0 4.987 .005l8.11 -13.539a2.914 2.914 0 0 0 -2.486 -4.386z"
+                        stroke-width="0" fill="currentColor" />
+                </svg>
+            </div>
+            <div class="dashboards">
+                <div class="dashboard-card"></div>
+                <div class="dashboard-card"></div>
+                <div class="dashboard-card"></div>
+            </div>
+            <div class="categoria-title">
+                <h3>Categoria 3</h3>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-triangle-inverted-filled"
+                    width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#597e8d" fill="none"
+                    stroke-linecap="round" stroke-linejoin="round">
+                    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                    <path
+                        d="M20.118 3h-16.225a2.914 2.914 0 0 0 -2.503 4.371l8.116 13.549a2.917 2.917 0 0 0 4.987 .005l8.11 -13.539a2.914 2.914 0 0 0 -2.486 -4.386z"
+                        stroke-width="0" fill="currentColor" />
+                </svg>
+            </div>
+            <div class="dashboards">
+                <div class="dashboard-card"></div>
+                <div class="dashboard-card"></div>
+                <div class="dashboard-card"></div>
+            </div>
+            <div class="categoria-title">
+                <h3>Categoria 4</h3>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-triangle-inverted-filled"
+                    width="44" height="44" viewBox="0 0 24 24" stroke-width="1.5" stroke="#597e8d" fill="none"
+                    stroke-linecap="round" stroke-linejoin="round">
+                    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                    <path
+                        d="M20.118 3h-16.225a2.914 2.914 0 0 0 -2.503 4.371l8.116 13.549a2.917 2.917 0 0 0 4.987 .005l8.11 -13.539a2.914 2.914 0 0 0 -2.486 -4.386z"
+                        stroke-width="0" fill="currentColor" />
+                </svg>
+            </div>
+            <div class="dashboards">
+                <div class="dashboard-card"></div>
+                <div class="dashboard-card"></div>
+                <div class="dashboard-card"></div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const dashboardCard = document.querySelector('.dashboard-card');
+
+
+            dashboardCard.addEventListener('click', function () {
+                const url = 'dashboard.html';
+                if (url) {
+                    window.location.href = url;
+                }
+            });
+        });
+    </script>
+</body>
+
+</html>
