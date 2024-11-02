@@ -1,46 +1,42 @@
 <!DOCTYPE html>
 <html lang="es">
-
 <head>
     <title>Kiosko Analytics</title>
     <link rel="stylesheet" href="login.css">
     <script src="https://kit.fontawesome.com/64d58efce2.js" crossorigin="anonymous"></script>
 </head>
-
 <body style="display: flex; flex-direction: row;" class="backgroundLogin">
     <div id="image-login" style="height: 100%;width: 65%; display: flex; align-items: center; justify-content: center;">
         <img src="img/fondo_login.jpg" alt="tienda blanca" style="width: 90%;height: 90%; object-fit: cover;">
     </div>
     <div style="height: 100%; width: 35%; display: flex; flex-direction: column; align-items: center; justify-content: space-between;" class="backgroundLogin">
+        <section style="margin-top: 0rem;">
+            <div style="height: auto; width: 100%; display: flex; justify-content: center; margin-top:10%;">
+                <img src="img/Logo.png" style="height: auto; width: 90%; border-radius: 10px; margin-top: 20px;" />
+            </div>
+        </section>
 
-    <section style="margin-top: 0rem;">
-        <div style="height: auto; width: 100%; display: flex; justify-content: center; margin-top:10% ;">
-            <img src="img/Logo.png" style="height: auto; width: 90%; border-radius: 10px; margin-top: 20px;" />
-        </div>
-    </section>
-
-    <section style="display: flex; flex-direction: column; align-items: center; background-color: white; margin: 0rem 4rem; padding: 2rem;border-radius: 2rem; width: 70%; margin-bottom: 30%; margin-top:10%;">
-        <div class="input-field">
-            <i class="fas fa-user"></i>
-            <input type="text" placeholder="Nombre de Usuario" />
-        </div>
-        <div class="input-field">
-            <i class="fas fa-lock"></i>
-            <input type="password" placeholder="Contraseña" />
-        </div>
-        <div class="input-field">
-            <i class="fas fa-lock"></i>
-            <input type="password" placeholder="Empresa" />
-        </div>
-        <div class="input-field">
-            <i class="fas fa-lock"></i>
-            <input type="password" placeholder="correo@gmail.com" />
-        </div>
-        <input type="submit" value="Registrarme" class="btn solid" />
-    </section>
-        
-        
+        <section style="display: flex; flex-direction: column; align-items: center; background-color: white; margin: 0rem 4rem; padding: 2rem;border-radius: 2rem; width: 70%; margin-bottom: 30%; margin-top:10%;">
+            <form action="registro.php" method="POST">
+                <div class="input-field">
+                    <i class="fas fa-user"></i>
+                    <input type="text" name="nombre" placeholder="Nombre de Usuario" required />
+                </div>
+                <div class="input-field">
+                    <i class="fas fa-lock"></i>
+                    <input type="password" name="contraseña" placeholder="Contraseña" required />
+                </div>
+                <div class="input-field">
+                    <i class="fas fa-building"></i>
+                    <input type="text" name="empresa" placeholder="Empresa" required />
+                </div>
+                <div class="input-field">
+                    <i class="fas fa-envelope"></i>
+                    <input type="email" name="correo" placeholder="correo@gmail.com" required />
+                </div>
+                <input type="submit" value="Registrarme" class="btn solid" />
+            </form>
+        </section>
     </div>
 </body>
-
 </html>
