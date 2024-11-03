@@ -33,10 +33,10 @@ function registrarUsuario($nombre, $contraseña, $empresa, $correo) {
 // Verificar si el formulario fue enviado
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     // Recibir datos del formulario
-    $nombre = $_POST['Nom_Usuario'];
-    $contraseña = $_POST['Contraseña'];
-    $empresa = $_POST['Nom_Empresa'];
-    $correo = $_POST['Correo'];
+    $nombre = $_POST['nombre'];
+    $contraseña = $_POST['contraseña'];
+    $empresa = $_POST['empresa'];
+    $correo = $_POST['correo'];
 
     // Llamar a la función para registrar el usuario
     registrarUsuario($nombre, $contraseña, $empresa, $correo);
