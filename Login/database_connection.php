@@ -8,12 +8,23 @@
         private $user = "root";
         private $database = "kiosko";
         private $password = "1421";
-    
+        
+        /**
+         * Función publica donde se genera la conexión a la base 
+         * de datos
+         * 
+         * Retorna -> Objeto de conexión
+         */
         public function Create_connection(){
             $conn = $this->Connection();
             return $conn;
         }
-    
+        
+        /**
+         * Función para conectarnos a la base de datos 
+         * 
+         * Retorna -> Objeto de conexión
+         */
         private function Connection(){
             
             try {

@@ -10,6 +10,11 @@ try {
     die("PDO Connection Error: " . $e->getMessage());
 }
 
+/**
+ * Función que se encarga de extraer los datos de la tabla de productos
+ * 
+ * Retorna -> array
+ */
 function Extraer_productos(){
     global $conn;
     $stmt = $conn->prepare("SELECT * FROM productos");
@@ -52,12 +57,14 @@ function Extraer_productos(){
     <!--Termino del nav-->
 
     <section>
+        <!-- Contendor del titulo de la pagina -->
         <div id="Titulo_pag">
             <h3>Productos</h3>
         </div>
         <div class="container mt-4">
             <table class="table table-bordered">
                 <thead>
+                    <!-- Titulos de las columnas -->
                     <tr>
                         <th>ID</th>
                         <th>Nombre</th>
@@ -69,6 +76,7 @@ function Extraer_productos(){
                     <?php
                     // Llamar a la función para obtener el array que contiene los productos
                     $productos = Extraer_productos();
+                    // Bucle donde se recorre el array de productos
                     foreach($productos as $producto):
                     ?>
                         <tr>
@@ -79,13 +87,16 @@ function Extraer_productos(){
                             <!-- Obtener los datos del campo Cantidad -->
                             <td><?= $producto['Cantidad'] ?></td>
                             <td>
+                                <!-- Boton de eleminar -->
                                 <button class="btn-31">
                                     <span class="text-container">
                                         <span class="text">Eliminar</span>
                                     </span>
                                 </button>
+                                <!-- Termino de boton de eliminar -->
                             </td>
                         </tr>
+                    <!-- Terminar el bucle -->
                     <?php endforeach; ?>
                 </tbody>
             </table>
