@@ -1,33 +1,33 @@
 <?php
-$host = 'localhost';
-$dbname = 'Kiosko';
-$username = 'root';
-$password = '';
+require "./database_connection.php";
 
-$mysqli = new mysqli($host, $username, $password, $dbname);
 
-if ($mysqli->connect_error) {
-    die("Error en la conexión: " . $mysqli->connect_error);
+try {
+    $db = new databaseConnection();
+    $conn = $db->Create_connection();
+} catch (Exception $e) {
+    die("PDO Connection Error: " . $e->getMessage());
 }
 
 // Función para registrar usuario
 function registrarUsuario($nombre, $contraseña, $empresa, $correo) {
-    global $mysqli;
+    global $conn;
 
-    $stmt = $mysqli->prepare("INSERT INTO usuarios (Nom_Usuario, Contraseña, Nom_Empresa, Correo) VALUES (?, ?, ?, ?)");
-    if ($stmt === false) {
-        die("Error en la preparación de la consulta: " . $mysqli->error);
+    try {
+        $stmt = $conn->prepare("INSERT INTO usuarios (Nom_Usuario,Contraseña, Nom_Empresa, Correo) Values (:nombre, :contraseña, :empresa, :correo) ");
+        $stmt->bindParam(":name",$nombre);
+        $stmt->bindParam(":contraseña",$contraseña);
+        $stmt->bindParam(":empresa",$empresa);
+        $stmt->bindParam(":correo",$correo);
+        if ($stmt->execute()) {
+            header("Location: login.html");
+        }else {
+            echo "Error al registrar el usuario: " . $stmt->errorInfo()[2];
+        }
+
+    } catch (Exception $e) {
+        die("Error al conectarse a la base de datos: ". $e->getMessage());
     }
-
-    $stmt->bind_param("ssss", $nombre, $contraseña, $empresa, $correo);
-
-    if ($stmt->execute()) {
-        echo "Registro exitoso";
-    } else {
-        echo "Error al registrar el usuario: " . $stmt->error;
-    }
-
-    $stmt->close();
 }
 
 // Verificar si el formulario fue enviado
