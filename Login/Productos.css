@@ -9,7 +9,7 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 20rem;
+    height: 0.5rem;
     width: 100%;
     border-bottom-left-radius: 15rem 5rem;
     border-bottom-right-radius: 15rem 5rem;
@@ -21,6 +21,22 @@ header {
     position: relative;
 }
 
+section{
+  display: block;
+}
+
+/* id´s */
+#Titulo_pag{
+  text-align: center;
+  padding-top: 10%;
+  margin-bottom: 5%;
+}
+#eliminar{
+  display: flex;
+  justify-content: center;
+}
+
+/* Seccion del nav */
 nav {
     width: 100%;
     background-color: rgba(0, 0, 0, 0.7);

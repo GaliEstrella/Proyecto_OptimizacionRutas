@@ -86,7 +86,7 @@ function Extraer_productos(){
                             <td><?= $producto['Nom_Producto'] ?></td>
                             <!-- Obtener los datos del campo Cantidad -->
                             <td><?= $producto['Cantidad'] ?></td>
-                            <td>
+                            <td id="eliminar">
                                 <!-- Boton de eleminar -->
                                 <button class="btn-31">
                                     <span class="text-container">
