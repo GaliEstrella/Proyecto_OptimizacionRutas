@@ -1,0 +1,73 @@
+﻿@model RouteMinds.Models.ViewModels.AlmacenVM
+
+@{
+    ViewData["Title"] = "Editar Almacén";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/Home.css" />
+}
+
+<header>
+    <nav>
+        <ul>
+            <div class="left-links">
+            <li><a asp-controller="Home" asp-action="Index">Inicio</a></li>
+            <li><a asp-controller="Home" asp-action="Mapa">Mapa</a></li>
+            <li><a asp-controller="Tienda" asp-action="Index">Tiendas</a></li>
+            <li><a asp-controller="Almacen" asp-action="Index">Almacenes</a></li>
+            <li><a asp-controller="Ruta" asp-action="Index">Rutas</a></li>
+            </div>
+            <div class="right-link">
+            <li><a asp-controller="Login" asp-action="Logout">Cerrar Sesión</a></li>
+            </div>
+        </ul>
+    </nav>
+    <div style="height: 5rem;"></div>
+    <img src="~/img/Logo.png" alt="">
+</header>
+
+<section style="display: flex; justify-content: center; align-items: center; margin-top: 20px;">
+    <div class="card shadow-lg" style="width: 40rem;">
+        <div class="card-header bg-danger text-white text-center">
+            <h3>Editar Almacén</h3>
+        </div>
+        <div class="card-body">
+            @if (TempData["error"] != null)
+            {
+                <div class="alert alert-danger">@TempData["error"]</div>
+            }
+            <form asp-action="EditAlmacen" asp-controller="Almacen" method="post">
+                <div class="mb-3">
+                    <label asp-for="AlmacenId" class="form-label">ID del Almacén</label>
+                    <input asp-for="AlmacenId" class="form-control" type="number" placeholder="ID del almacén" readonly />
+                    <span asp-validation-for="AlmacenId" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Nombre" class="form-label">Nombre</label>
+                    <input asp-for="Nombre" class="form-control" type="text" placeholder="Ingresa el nombre del almacén" />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Latitud" class="form-label">Latitud</label>
+                    <input asp-for="Latitud" class="form-control" type="number" step="any" placeholder="Ingresa la latitud" />
+                    <span asp-validation-for="Latitud" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="Longitud" class="form-label">Longitud</label>
+                    <input asp-for="Longitud" class="form-control" type="number" step="any" placeholder="Ingresa la longitud" />
+                    <span asp-validation-for="Longitud" class="text-danger"></span>
+                </div>
+                <div class="d-flex justify-content-between">
+                    <a asp-controller="Almacen" asp-action="Index" class="btn btn-secondary">Regresar</a>
+                    <button type="submit" class="btn btn-success">Guardar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
+
+@section Scripts {
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/jquery.validate.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation-unobtrusive@3.2.13/dist/jquery.validate.unobtrusive.min.js"></script>
+}

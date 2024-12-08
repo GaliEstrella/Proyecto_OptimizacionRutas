@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Tiendas";
+}
+
+@section Styles {
+        <link rel="stylesheet" href="~/css/Home.css" />
+}
+
+<header>
+    <nav>
+        <ul>
+            <div class="left-links">
+                <li><a asp-controller="Home" asp-action="Index">Inicio</a></li>
+                <li><a asp-controller="Home" asp-action="Mapa">Mapa</a></li>
+                <li><a asp-controller="Tienda" asp-action="Index">Tiendas</a></li>
+                <li><a asp-controller="Almacen" asp-action="Index">Almacenes</a></li>
+                <li><a asp-controller="Ruta" asp-action="Index">Rutas</a></li>
+            </div>
+            <div class="right-link">
+                <li><a asp-controller="Login" asp-action="Logout">Cerrar Sesión</a></li>
+            </div>
+        </ul>
+    </nav>
+    <div style="height: 5rem;"></div>
+    <img src="~/img/Logo.png" alt="">
+</header>
+
+<section style="display: flex; width: 100%; align-items: center; justify-content: center;margin-bottom: 5rem;">
+    <div style="margin-top:10px">
+        <div class="container-xxl">
+            <div class="card shadow border-0 mt-4">
+                <div class="card-header bg-danger bg-gradient text-center py-3">
+                    <h2 class="text-white py-2">Lista de Tiendas</h2>
+                </div>
+                <div class="card-body">
+                    <table id="tblTiendas" class="table table-bordered table-striped nowrap" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th>Almacen</th>
+                                <th>Tienda</th>
+                                <th>Nombre de la Tienda</th>
+                                <th>Latitud</th>
+                                <th>Longitud</th>
+                                <th>Tarimas</th>
+                                <th>Acciones</th>
+                            </tr>
+                        </thead>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+@section Scripts {
+        <script src="~/js/Tiendas.js"></script>
+}

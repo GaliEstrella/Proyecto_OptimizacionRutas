@@ -1,0 +1,59 @@
+﻿@model RouteMinds.Models.ViewModels.LoginViewModel
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/login.css" />
+}
+
+<body style="display: flex; flex-direction: row;" class="backgroundLogin">
+    <div id="image-login" style="height: 100%;width: 65%; display: flex; align-items: center; justify-content: center;">
+        <img src="img/fondo_login.jpg" alt="tienda blanca" style="width: 100%;height: 100%; object-fit: cover;">
+    </div>
+    <div style="height: 100%; width: 35%; display: flex; flex-direction: column; align-items: center; justify-content: space-evenly;" class="backgroundLogin">
+
+        <section style="margin-top: 3rem;">
+            <div style="height: auto; width: 100%; display: flex; justify-content: center;">
+                <img src="img/Logo.png" style="height: auto; width: 90%; border-radius: 10px; margin-top: 20px;" />
+            </div>
+        </section>
+
+        <!-- Formulario de inicio de sesión -->
+        <form asp-action="Index" method="post" id="loginForm" style="display: flex; flex-direction: column; align-items: center; background-color: white; margin: 8rem 4rem; padding: 2rem; border-radius: 2rem; width: 70%;">
+            <div class="input-field">
+                <i class="fas fa-user"></i>
+                <input asp-for="Username" type="text" placeholder="username" required />
+            </div>
+            <div class="input-field">
+                <i class="fas fa-lock"></i>
+                <input asp-for="Password" type="password" placeholder="password" required />
+            </div>
+            <input id="btnLogin" type="submit" value="Iniciar Sesión" class="btn solid" />
+            <div class="social-text"> ¿No tienes una cuenta? <a asp-controller="Login" asp-action="Register">Regístrate</a> </div>
+        </form>
+    </div>
+
+    @section Scripts {
+        <!-- JavaScript function to disable the button -->
+        <script type="text/javascript">
+            function disableButton(btn) {
+                // Disable the button to prevent multiple submissions
+                btn.disabled = true;
+
+                // Change the button text
+                btn.value = "Verificando...";
+
+                // Submit the form
+                document.getElementById('loginForm').submit();
+            }
+        </script>
+
+    }
+
+
+
+</body>
+
+

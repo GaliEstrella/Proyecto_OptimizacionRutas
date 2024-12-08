@@ -1,0 +1,172 @@
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\appsettings.json
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\RouteMinds.staticwebassets.runtime.json
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\RouteMinds.exe
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\RouteMinds.deps.json
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\RouteMinds.runtimeconfig.json
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\RouteMinds.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\RouteMinds.pdb
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.AssemblyInfoInputs.cache
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.AssemblyInfo.cs
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.csproj.CoreCompileInputs.cache
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.RazorAssemblyInfo.cache
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.RazorAssemblyInfo.cs
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\staticwebassets\msbuild.RouteMinds.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\staticwebassets\msbuild.build.RouteMinds.props
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RouteMinds.props
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RouteMinds.props
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\scopedcss\bundle\RouteMinds.styles.css
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\scopedcss\projectbundle\RouteMinds.bundle.scp.css
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\refint\RouteMinds.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.pdb
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.genruntimeconfig.cache
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\ref\RouteMinds.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.csproj.AssemblyReference.cache
+C:\Users\Colibecas\Desktop\RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.csproj.Up2Date
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\appsettings.json
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\RouteMinds.staticwebassets.runtime.json
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\RouteMinds.exe
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\RouteMinds.deps.json
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\RouteMinds.runtimeconfig.json
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\RouteMinds.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\RouteMinds.pdb
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.csproj.AssemblyReference.cache
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.AssemblyInfoInputs.cache
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.AssemblyInfo.cs
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.csproj.CoreCompileInputs.cache
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.RazorAssemblyInfo.cache
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.RazorAssemblyInfo.cs
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\staticwebassets\msbuild.RouteMinds.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\staticwebassets\msbuild.build.RouteMinds.props
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RouteMinds.props
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RouteMinds.props
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\scopedcss\bundle\RouteMinds.styles.css
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\scopedcss\projectbundle\RouteMinds.bundle.scp.css
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.csproj.Up2Date
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\refint\RouteMinds.dll
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.pdb
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\RouteMinds.genruntimeconfig.cache
+C:\Users\Colibecas\Desktop\Proyecto RouteMinds\RouteMinds\obj\Debug\net8.0\ref\RouteMinds.dll
