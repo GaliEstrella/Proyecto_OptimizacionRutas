@@ -32,6 +32,11 @@
                 <div class="card-header bg-danger bg-gradient text-center py-3">
                     <h2 class="text-white py-2">Lista de Tiendas</h2>
                 </div>
+                <div class="col-12 text-end pt-4 px-4">
+                    <a asp-controller="Tienda" asp-action="Create" class="btn btn-success">
+                        <i class="bi bi-plus-circle"></i> Crear nueva Tienda
+                    </a>
+                </div>
                 <div class="card-body">
                     <table id="tblTiendas" class="table table-bordered table-striped nowrap" style="width:100%">
                         <thead>

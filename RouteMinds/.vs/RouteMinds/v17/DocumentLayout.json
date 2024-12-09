@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Colibecas\\Desktop\\Proyecto RouteMinds\\RouteMinds\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C03D9582-BC9B-44E3-82C8-FF3210C2D408}|RouteMinds.csproj|c:\\users\\colibecas\\desktop\\proyecto routeminds\\routeminds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C03D9582-BC9B-44E3-82C8-FF3210C2D408}|RouteMinds.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C03D9582-BC9B-44E3-82C8-FF3210C2D408}|RouteMinds.csproj|c:\\users\\colibecas\\desktop\\proyecto routeminds\\routeminds\\views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C03D9582-BC9B-44E3-82C8-FF3210C2D408}|RouteMinds.csproj|solutionrelative:views\\tienda\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C03D9582-BC9B-44E3-82C8-FF3210C2D408}|RouteMinds.csproj|c:\\users\\colibecas\\desktop\\proyecto routeminds\\routeminds\\controllers\\rutacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C03D9582-BC9B-44E3-82C8-FF3210C2D408}|RouteMinds.csproj|solutionrelative:controllers\\rutacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C03D9582-BC9B-44E3-82C8-FF3210C2D408}|RouteMinds.csproj|c:\\users\\colibecas\\desktop\\proyecto routeminds\\routeminds\\wwwroot\\js\\rutas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{C03D9582-BC9B-44E3-82C8-FF3210C2D408}|RouteMinds.csproj|solutionrelative:wwwroot\\js\\rutas.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C03D9582-BC9B-44E3-82C8-FF3210C2D408}|RouteMinds.csproj|c:\\users\\colibecas\\desktop\\proyecto routeminds\\routeminds\\views\\ruta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C03D9582-BC9B-44E3-82C8-FF3210C2D408}|RouteMinds.csproj|solutionrelative:views\\ruta\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C03D9582-BC9B-44E3-82C8-FF3210C2D408}|RouteMinds.csproj|c:\\users\\colibecas\\desktop\\proyecto routeminds\\routeminds\\views\\almacen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C03D9582-BC9B-44E3-82C8-FF3210C2D408}|RouteMinds.csproj|solutionrelative:views\\almacen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,52 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Colibecas\\Desktop\\Proyecto RouteMinds\\RouteMinds\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Colibecas\\Desktop\\Proyecto RouteMinds\\RouteMinds\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-08T20:10:23.098Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\Desktop\\Proyecto RouteMinds\\RouteMinds\\Views\\Tienda\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tienda\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Colibecas\\Desktop\\Proyecto RouteMinds\\RouteMinds\\Views\\Tienda\\Index.cshtml",
+              "RelativeToolTip": "Views\\Tienda\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T20:33:40.484Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Rutas.js",
-              "DocumentMoniker": "C:\\Users\\Colibecas\\Desktop\\Proyecto RouteMinds\\RouteMinds\\wwwroot\\js\\Rutas.js",
-              "RelativeDocumentMoniker": "wwwroot\\js\\Rutas.js",
-              "ToolTip": "C:\\Users\\Colibecas\\Desktop\\Proyecto RouteMinds\\RouteMinds\\wwwroot\\js\\Rutas.js",
-              "RelativeToolTip": "wwwroot\\js\\Rutas.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-12-07T18:43:44.943Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RutaController.cs",
-              "DocumentMoniker": "C:\\Users\\Colibecas\\Desktop\\Proyecto RouteMinds\\RouteMinds\\Controllers\\RutaController.cs",
-              "RelativeDocumentMoniker": "Controllers\\RutaController.cs",
-              "ToolTip": "C:\\Users\\Colibecas\\Desktop\\Proyecto RouteMinds\\RouteMinds\\Controllers\\RutaController.cs",
-              "RelativeToolTip": "Controllers\\RutaController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-07T18:40:38.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Colibecas\\Desktop\\Proyecto RouteMinds\\RouteMinds\\Views\\Ruta\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Ruta\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Colibecas\\Desktop\\Proyecto RouteMinds\\RouteMinds\\Views\\Ruta\\Index.cshtml",
-              "RelativeToolTip": "Views\\Ruta\\Index.cshtml",
-              "ViewState": "AgIAACgAAAAAAAAAAAAcwEgAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Colibecas\\Desktop\\Proyecto RouteMinds\\RouteMinds\\Views\\Almacen\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Almacen\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Colibecas\\Desktop\\Proyecto RouteMinds\\RouteMinds\\Views\\Almacen\\Index.cshtml",
+              "RelativeToolTip": "Views\\Almacen\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T18:39:43.253Z"
+              "WhenOpened": "2024-12-08T20:33:36.619Z"
             }
           ]
         }
